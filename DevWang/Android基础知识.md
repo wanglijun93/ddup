@@ -1,6 +1,6 @@
 #Android：
 ---
-**五种布局： FrameLayout  、 LinearLayout 、 AbsoluteLayout 、 RelativeLayout 、 TableLayout 全都继承自ViewGroup，各自特点及绘制效率对比。**
+**五种布局： FrameLayout 、 LinearLayout 、 AbsoluteLayout 、 RelativeLayout 、 TableLayout 全都继承自ViewGroup，各自特点及绘制效率对比。**
 
 * FrameLayout(框架布局)
 
