@@ -1,5 +1,0 @@
-Int和integer区别？
-Int是Java的基本数据类型，integer是int提供的封装类。
-Int的默认值是0，integer默认值为null。
-声明为int的变量不需要实例化，声明为integer的变量需要实例化。
-Int是基本数据类型，直接存储值；integer是一个对象，是一个引用指向这个对象。
