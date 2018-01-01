@@ -1,1 +1,2 @@
-1、standard：每次激活Activity时(startActivity)，都创建Activity实例，并放入任务栈
+1、standard：每次激活Activity时(startActivity)，都创建Activity实例，并放入任务栈；
+2、singleTop：如果某个Activity自己激活自己，即任务栈栈顶就是该Activity，则不需要创建，其余情况都要创建Activity实例；
