@@ -1,0 +1,1 @@
+1、standard：每次激活Activity时(startActivity)，都创建Activity实例，并放入任务栈
