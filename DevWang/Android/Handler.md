@@ -1,6 +1,6 @@
 Android 的消息机制，也就是 Handler 机制，相信各位都已经是烂熟于心了吧。即创建一个 Message 对象，然后借助 Handler 发送出去，之后在 Handler 的 handleMessage() 方法中获取刚才发送的 Message 对象，然后在这里进行 UI 操作就不会出现崩溃了。
 
-我们都知道子线程中进行 UI 操作会阻塞主线程，通常是怎么在子线程更新 UI 的？
+我们都知道子线程中进行 UI 操作会阻塞主线程，通常是怎么在子线程更新 UI的？
 
 Handler
 Activity.runOnUiThread()
